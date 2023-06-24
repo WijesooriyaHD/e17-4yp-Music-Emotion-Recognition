@@ -9,18 +9,18 @@ title:
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# Music Emotion Recognition
 
 #### Team
 
-- eNumber, Name, [email](mailto:name@email.com)
-- eNumber, Name, [email](mailto:name@email.com)
-- eNumber, Name, [email](mailto:name@email.com)
+- E/17/040, Chandrasena M.M.D, [email](e17040@eng.pdn.ac.lk)
+- E/17/356, Upekha H.P.S , [email](e17356@eng.pdn.ac.lk)
+- E/17/407,  Wijesooriya H.D, [email](mailto:e17407@eng.pdn.ac.lk)
 
 #### Supervisors
 
-- Name, [email](mailto:name@eng.pdn.ac.lk)
-- Name, [email](mailto:name@eng.pdn.ac.lk)
+- Prof. Roshan Ragel, [email](roshanr@eng.pdn.ac.lk)
+- Dhanushki Mapitigama, [email](dhanumapitigama@eng.pdn.ac.lk)
 
 #### Table of content
 
@@ -33,11 +33,6 @@ title:
 7. [Publications](#publications)
 8. [Links](#links)
 
----
-
-DELETE THIS SAMPLE before publishing to GitHub Pages !!!
-This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/)
-![Sample Image](./images/sample.png)
 
 
 ## Abstract
@@ -66,8 +61,8 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 [//]: # ( NOTE: EDIT THIS LINKS WITH YOUR REPO DETAILS )
 
-- [Project Repository](https://github.com/cepdnaclk/repository-name)
-- [Project Page](https://cepdnaclk.github.io/repository-name)
+- [Project Repository](https://github.com/cepdnaclk/e17-4yp-Music-Emotion-Recognition)
+- [Project Page](https://cepdnaclk.github.io/e17-4yp-Music-Emotion-Recognition/ )
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
 
