@@ -12,9 +12,23 @@ Moreover, the application of MER extends to various domains, including Enhancing
 
 Given its interdisciplinary nature and wide-ranging implications,MER has garnered considerable attention from researchers. Their efforts are directed towards advancing robust algorithms, machine learning models, and sophisticated signal processing techniques to accurately analyze and classify the emotional content of music.This literature review aims to explore the methodologies, methods, and materials employed in previous studies on MER, with a particular focus on the application of machine learning algorithms and neural networks. we undertake a comprehensive analysis of the performance and accuracy of existing MER systems.By thoroughly examining and evaluating those systems, we aim to identify their strengths, limitations, and areas for improvement. Building upon the foundation laid by previous studies, our aim is to enhance the performance and accuracy of these systems. To achieve this, we explore the potential utilization of Deep Neural Networks (DNN) and Bidirectional Long Short-Term Memory (LSTM) models.
 
+## Preliminary Knowledge
+Existing MER publications can be mainly categorized into two sections, namely song-level MER (or static) and music emotion variation detection (MEVD, or dynamic). Assigning
+the overall emotion label (or labels, if the task is viewed as a multi-classification or regression problem) to one song is referred to as song-level MER.MEVD considers the emotion of the music as a changing process, where the dynamic changing process of emotion needs to be recognized when conducting MEVD research.
+
+#### Research framework: 
+Most existing MER works based on machine learning include three parts and they are, domain definition, feature extraction, and emotion recognition. “Figure. 1”, shows the overall framework of MER systems.
+
+#### Emotion Model: 
+Dimensional emotion models are widely used in MER systems. There are two main dimension emotion models namely Thayer’s emotion model and Russell’s circumplex model. Both models use arousal and valence values (AV values) to identify the emotion in a given music sample. Associated with the AV values, each music sample becomes a point in the arousal-valence plane, so the users can efficiently retrieve the music sample by specifying a desired point in the emotion plane."Figure. 2" shows Thayer’s emotion model associated with MER.
+
+| Figure 1 | Figure 2 |
+| ------- | ------- |
+| ![Image 1](/docs/images/fig1.jpg) | ![Image 2](/docs/images/fig2.jpg) |
+|  MER framework   |  Thayer’s arousal-valence emotion plan |
+
+
 ## Related Links
-
-
 1. [Project page](https://cepdnaclk.github.io/e17-4yp-Music-Emotion-Recognition/ )
 2. [Github repo](https://github.com/cepdnaclk/e17-4yp-Music-Emotion-Recognition)
 3. [Department of computer engineering](http://www.ce.pdn.ac.lk/)
