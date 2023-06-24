@@ -12,6 +12,14 @@ Moreover, the application of MER extends to various domains, including Enhancing
 
 Given its interdisciplinary nature and wide-ranging implications,MER has garnered considerable attention from researchers. Their efforts are directed towards advancing robust algorithms, machine learning models, and sophisticated signal processing techniques to accurately analyze and classify the emotional content of music.This literature review aims to explore the methodologies, methods, and materials employed in previous studies on MER, with a particular focus on the application of machine learning algorithms and neural networks. we undertake a comprehensive analysis of the performance and accuracy of existing MER systems.By thoroughly examining and evaluating those systems, we aim to identify their strengths, limitations, and areas for improvement. Building upon the foundation laid by previous studies, our aim is to enhance the performance and accuracy of these systems. To achieve this, we explore the potential utilization of Deep Neural Networks (DNN) and Bidirectional Long Short-Term Memory (LSTM) models.
 
+## Related Links
+
+
+1. [Project page](https://cepdnaclk.github.io/e17-4yp-Music-Emotion-Recognition/ )
+2. [Github repo](https://github.com/cepdnaclk/e17-4yp-Music-Emotion-Recognition)
+3. [Department of computer engineering](http://www.ce.pdn.ac.lk/)
+
+
 ## Team Members
 1. E/17/040 Chandrasena M.M.D [[e17040@eng.pdn.ac.lk](mailto:e17040@eng.pdn.ac.lk)]
 2. E/17/356 Upekha H.P.S [[e17356@eng.pdn.ac.lk](mailto:e17356@eng.pdn.ac.lk)]
