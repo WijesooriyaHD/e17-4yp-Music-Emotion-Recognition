@@ -54,6 +54,8 @@ Dimensional emotion models are widely used in MER systems. There are two main di
 |  MER framework   |  Thayer’s arousal-valence emotion plan |
 
 ## Related works
+![Image 3](./images/Literature_Review_Summary_2.png)
+![Image 4](./images/Literature_Review_Summary_1.png) 
 
 ## Methodology
 
