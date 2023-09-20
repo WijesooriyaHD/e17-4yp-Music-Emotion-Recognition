@@ -76,6 +76,17 @@ The paper "Study on Music Emotion Recognition Based on the Machine Learning Mode
 
 ## Results and Analysis
 
+### Baseline Model VS Proposed Model
+
+### Feature Selection
+
+### Parameter Tuning
+
+### Application of DNN
+
+### Existing Models VS Best Model Developed
+
+
 ## Conclusion
 
 ## Publications
