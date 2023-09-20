@@ -96,11 +96,11 @@ Initially, we tried different models and compared the accuracy with our model. W
 
 ## Conclusion
 
-<li>Systems which are using DNN, have a higher accuracy compared to the systems that use only the traditional machine learning algorithms. </li>
+<li> Systems that are using DNN, have a higher accuracy compared to the systems that use only the traditional machine learning algorithms. </li>
 
 <li> Dynamic MER models are more accurate than the static MER models.  </li>
 
-<li> The systems which have used hybrid models rather than a single model display more accuracy. </li>
+<li> The systems that have used hybrid models rather than a single model display more accuracy. </li>
 
 
 ## Publications
