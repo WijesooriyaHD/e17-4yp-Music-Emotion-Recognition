@@ -74,9 +74,36 @@ The paper "Study on Music Emotion Recognition Based on the Machine Learning Mode
 
 ## Experiment Setup and Implementation
 
+
+
 ## Results and Analysis
 
+### Baseline Model VS Proposed Model
+Initially, we tried different models and compared the accuracy with our model. We tried linear regression, SVR, BiLSTM, and BiLSTM+DNN. Our baseline model is a linear regression model. The performance of each model was measured using 5-fold cross-validation. The parameters used in the BiLSTM model are Folds = 5, Learning Rate=0.001, Epochs=25, Batch Size=32, Optimizer = Adam, Activation Function=relu. Initially, we had a single layer in DNN and it has 512 units. Later in the research we increased the number of layers in DNN and tested the accuracies. The following figures show the comparison of our model (BiLSTM + DNN ) with other models.
+| Arousal | Valence |
+| ------- | ------- |
+| ![Image 6](./images/fig3.png) | ![Image 7](./images/fig4.png)  |
+
+### Feature Selection
+  We tried different feature selection methods such as PCA and CFS (co-relation-based feature selection). After applying those two methods to our model we found that the model with PCA has the highest accuracy compared to the model with the CFS features. We were able to improve our initial model's performance by applying the PCA feature selection method. The  accuracies are as follows.
+
+![Image 8](./images/fig5.png)
+
+### Parameter Tuning
+
+### Application of DNN
+
+### Existing Models VS Best Model Developed
+
+
 ## Conclusion
+
+<li>Systems which are using DNN, have a higher accuracy compared to the systems that use only the traditional machine learning algorithms. </li>
+
+<li> Dynamic MER models are more accurate than the static MER models.  </li>
+
+<li> The systems which have used hybrid models rather than a single model display more accuracy. </li>
+
 
 ## Publications
 [//]: # "Note: Uncomment each once you uploaded the files to the repository"
