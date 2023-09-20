@@ -66,9 +66,6 @@ The paper "Study on Music Emotion Recognition Based on the Machine Learning Mode
 
 
 
-
-
-
 ## Methodology
 ![Image 5](./images/method.jpg)
 
