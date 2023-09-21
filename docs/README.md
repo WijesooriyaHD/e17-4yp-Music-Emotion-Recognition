@@ -94,6 +94,17 @@ We applied different layers of DNN with different number of units to test to imp
 
 ### Existing Models VS Best Model Developed
 
+| Best Model Developed VsExsisting models (RMSE) |
+| ------- |
+| ![Image 9](./images/best_model_developed_Vs_Exsisting_Model_1.png) |
+
+| Best Model Developed VsExsisting models (R2 Score) |
+| ------- |
+| ![Image 10](./images/best_model_developed_Vs_Exsisting_Model_2.png) |
+
+| Best Model Developed VsExsisting models (Accuracy) |
+| ------- |
+| ![Image 11](./images/best_model_developed_Vs_Exsisting_Model_3.png) |
 
 ## Conclusion
 
