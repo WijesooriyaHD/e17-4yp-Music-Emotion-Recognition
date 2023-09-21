@@ -1,0 +1,5 @@
+model_name,A_R2_Score,A_accuracy,V_R2_Score,V_accuracy,A_mse,V_mse,A_rmse,V_rmse
+LR -  Baseline Model,0.5262,0.7729,0.3179,0.7096,0.0483,0.0477,0.1956,0.1942
+SVR,0.3765,0.7537,0.2939,0.6759,0.061,0.0646,0.2258,0.2111
+"BiLSTM (folds=5 ,lr=0.001) - Reference Model",0.5788,0.8102,0.3879,0.7407,0.0381,0.0421,0.1854,0.1912
+"BiLSTM + DNN (fold=5 , lr=0.001 , dense_layer=512 units)",0.609,0.8196,0.4451,0.7497,0.0363,0.0382,0.1753,0.1867

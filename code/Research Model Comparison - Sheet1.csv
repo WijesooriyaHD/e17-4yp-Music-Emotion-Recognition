@@ -1,0 +1,6 @@
+model ,dataset,MSE - A,MAE - A,RMSE - A,R2 Score - A,F1 Score - A,Accuracy - A,Precision - A,Recall - A,MSE - V,MAE - V,RMSE - V,R2 Score - V,F1 Score - V,Accuracy - V,Precision - V,Recall - V
+ppr 7 -  LSTM,Media Eval ,,,0.225,,,,,,,,0.285,,,,,
+ppr 8 - DS - SVR ,Media Eval,,,0.255,,,,,,,,0.366,,,,,
+ppr 9 - LSTM ,Media Eval,,,0.242,,,,,,,,0.373,,,,,
+ppr 10 - DBLSTM + ELM,Media EVal,,,0.239,,,,,,,,0.318,,,,,
+Our Model,Media EVal,0.0217,0.1135,0.1472,0.6981,0.8872,0.8532,0.8967,0.898,0.0266,0.1276,0.1631,0.5179,0.8533,0.7982,0.847,0.8599
