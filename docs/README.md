@@ -89,9 +89,9 @@ Initially, we tried different models and compared the accuracy with our model. W
 
 ### Parameter Tuning
 We did parameter tuning to find the optimal learning rate and the epochs. The results from the test are as follows,
-![Image 12](./images/paramterTuning1.PNG)
+![Image 12](./images/parameterTuning1.PNG)
 
-![Image 13](./images/paramterTuning2.PNG)
+![Image 13](./images/parameterTuning2.PNG)
 
 
 ### Application of DNN
