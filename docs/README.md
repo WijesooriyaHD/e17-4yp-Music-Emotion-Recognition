@@ -89,13 +89,17 @@ Initially, we tried different models and compared the accuracy with our model. W
 
 ### Parameter Tuning
 We did parameter tuning to find the optimal learning rate and the epochs. The results from the test are as follows,
-![Image 12](./images/paramterTuning1.png)
+![Image 12](./images/paramterTuning1.PNG)
 
-![Image 13](./images/paramterTuning2.png)
+![Image 13](./images/paramterTuning2.PNG)
 
 
 ### Application of DNN
 We applied different layers of DNN with different number of units to test to improve the accuracy of the model.The results from the tests are as follows,
+
+![Image 14](./images/DNNarosal.PNG)
+
+![Image 15](./images/DNNvalaence.PNG)
 
 
 ### Existing Models VS Best Model Developed
