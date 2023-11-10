@@ -118,7 +118,7 @@ We applied different layers of DNN with different number of units to test to imp
 
 #### Prediction System
 
-The below graph visually represents the dynamic emotional trajectory of a music track over its duration. Time is plotted on the x-axis, segmented into 2-second intervals, covering the entire length of the song. The y-axis reflects the predicted emotional states, showcasing how the emotions of the music evolve over time. Each point on the graph corresponds to a 2-second segment of the song, with the connected line illustrating the flow and transitions between different predicted emotions. Peaks and valleys in the graph indicate significant shifts in emotional content, providing a comprehensive and insightful overview of the emotional journey experienced throughout the entire musical composition.
+The below graph visually captures the emotional journey of the song 'Heal the World Sad' over its duration, divided into 2-second intervals. As the song unfolds, the graph illustrates the nuanced changes in emotion, portraying peaks and valleys that signify shifts in the emotional tone. This dynamic representation offers a detailed insight into how the emotional landscape of the music evolves throughout its entirety. Following this, the accompanying pie chart succinctly summarizes the overall emotional composition of the song. Each emotion category, like sadness, is depicted as a slice in the pie chart. The percentages associated with each emotion category provide a quick glance at the predominant emotional themes within 'Heal the World Sad,' offering listeners a comprehensive understanding of the emotional tapestry woven throughout this musical composition.
 
 ![Image 12](./images/Emotion_graph_new.png)
 
@@ -127,8 +127,6 @@ Following the detailed emotional exploration, the accompanying pie chart offers 
 ![Image 13](./images/Emotion_pie_graph.png)
 
 The song exhibits a range of emotions, with a notable section that is depressing, suggesting that the theme could be mournful or very emotional. The song's majority is made up of calm, which offers quiet and muted intense moments. Anger and delight also play a part, albeit in smaller amounts, in creating a complex and emotionally charged musical experience. The song's music is intricate and emotionally compelling, as it seems to move through a variety of emotions overall.
-
-
 
 ## Conclusion
 
