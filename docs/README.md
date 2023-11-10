@@ -128,6 +128,8 @@ Following the detailed emotional exploration, the accompanying pie chart offers 
 
 ![Image 13](./images/Emotion_pie_graph.png)
 
+The song exhibits a range of emotions, with a notable section that is depressing, suggesting that the theme could be mournful or very emotional. The song's majority is made up of calm, which offers quiet and muted intense moments. Anger and delight also play a part, albeit in smaller amounts, in creating a complex and emotionally charged musical experience. The song's music is intricate and emotionally compelling, as it seems to move through a variety of emotions overall.
+
 
 
 ## Conclusion
