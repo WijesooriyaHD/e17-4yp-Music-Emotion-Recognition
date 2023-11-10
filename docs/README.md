@@ -106,7 +106,7 @@ We applied different layers of DNN with different number of units to test to imp
 
 | Best Model Developed VsExsisting models (RMSE) |
 | ------- |
-| ![Image 9](./images/best_model_developed_Vs_Exsisting_Model_1.png) |
+| ![Image 9](./images/best_model_developed_Vs_Exsisting_Model_1.jpg) |
 
 | Best Model Developed VsExsisting models (R2 Score) |
 | ------- |
