@@ -116,6 +116,14 @@ We applied different layers of DNN with different number of units to test to imp
 | ------- |
 | ![Image 11](./images/best_model_developed_Vs_Exsisting_Model_3.png) |
 
+## Results and Analysis
+
+##### Prediction System
+
+The below graph visually represents the dynamic emotional trajectory of a music track over its duration. Time is plotted on the x-axis, segmented into 2-second intervals, covering the entire length of the song. The y-axis reflects the predicted emotional states, showcasing how the emotions of the music evolve over time. Each point on the graph corresponds to a 2-second segment of the song, with the connected line illustrating the flow and transitions between different predicted emotions. Peaks and valleys in the graph indicate significant shifts in emotional content, providing a comprehensive and insightful overview of the emotional journey experienced throughout the entire musical composition.
+
+| ![Image 12](./images/best_model_developed_Vs_Exsisting_Model_3.png)|
+
 ## Conclusion
 
 <li> Systems that are using DNN, have a higher accuracy compared to the systems that use only the traditional machine learning algorithms. </li>
