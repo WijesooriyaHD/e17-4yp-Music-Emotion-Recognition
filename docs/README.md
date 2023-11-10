@@ -126,7 +126,7 @@ The below graph visually represents the dynamic emotional trajectory of a music 
 
 Following the detailed emotional exploration, the accompanying pie chart offers a concise summary of the overall emotional composition of the song. Each slice of the pie corresponds to a distinct emotion category, such as happiness, anger, sadness, and calmness. The size of each slice represents the proportion of the song's duration characterized by that particular emotion, offering a quick and intuitive overview of the predominant emotional themes woven into the fabric of the musical experience.
 
-![Image 13](./images/Emotion_graph.png)
+![Image 13](./images/Emotion_pie_graph.png)
 
 
 
