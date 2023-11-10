@@ -142,6 +142,10 @@ The song exhibits a range of emotions, with a notable section that is depressing
 ## Publications
 [//]: # "Note: Uncomment each once you uploaded the files to the repository"
 
+- [Semester 7 report](https://github.com/cepdnaclk/e17-4yp-Music-Emotion-Recognition)
+- [Semester 7 slides](https://github.com/cepdnaclk/e17-4yp-Music-Emotion-Recognition)
+- [Semester 8 report](https://github.com/cepdnaclk/e17-4yp-Music-Emotion-Recognition)
+- [Semester 8 slides](https://github.com/cepdnaclk/e17-4yp-Music-Emotion-Recognition)
 <!-- 1. [Semester 7 report](./) -->
 <!-- 2. [Semester 7 slides](./) -->
 <!-- 3. [Semester 8 report](./) -->
