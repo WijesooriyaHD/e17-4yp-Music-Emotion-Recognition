@@ -106,7 +106,7 @@ We applied different layers of DNN with different number of units to test to imp
 
 | Best Model Developed VsExsisting models (RMSE) |
 | ------- |
-| ![Image 9](./images/best_model_developed_Vs_Exsisting_Model_1.png) |
+| ![Image 9](./images/best_model_developed_Vs_Exsisting_Model_1.jpg) |
 
 | Best Model Developed VsExsisting models (R2 Score) |
 | ------- |
@@ -115,6 +115,22 @@ We applied different layers of DNN with different number of units to test to imp
 | Best Model Developed VsExsisting models (Accuracy) |
 | ------- |
 | ![Image 11](./images/best_model_developed_Vs_Exsisting_Model_3.png) |
+
+## Results and Analysis
+
+#### Prediction System
+
+The below graph visually represents the dynamic emotional trajectory of a music track over its duration. Time is plotted on the x-axis, segmented into 2-second intervals, covering the entire length of the song. The y-axis reflects the predicted emotional states, showcasing how the emotions of the music evolve over time. Each point on the graph corresponds to a 2-second segment of the song, with the connected line illustrating the flow and transitions between different predicted emotions. Peaks and valleys in the graph indicate significant shifts in emotional content, providing a comprehensive and insightful overview of the emotional journey experienced throughout the entire musical composition.
+
+![Image 12](./images/Emotion_graph.png)
+
+Following the detailed emotional exploration, the accompanying pie chart offers a concise summary of the overall emotional composition of the song. Each slice of the pie corresponds to a distinct emotion category, such as happiness, anger, sadness, and calmness. The size of each slice represents the proportion of the song's duration characterized by that particular emotion, offering a quick and intuitive overview of the predominant emotional themes woven into the fabric of the musical experience.
+
+![Image 13](./images/Emotion_pie_graph.png)
+
+The song exhibits a range of emotions, with a notable section that is depressing, suggesting that the theme could be mournful or very emotional. The song's majority is made up of calm, which offers quiet and muted intense moments. Anger and delight also play a part, albeit in smaller amounts, in creating a complex and emotionally charged musical experience. The song's music is intricate and emotionally compelling, as it seems to move through a variety of emotions overall.
+
+
 
 ## Conclusion
 
