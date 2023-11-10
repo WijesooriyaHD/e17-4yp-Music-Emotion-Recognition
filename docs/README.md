@@ -144,7 +144,6 @@ The song exhibits a range of emotions, with a notable section that is depressing
 
 - [Semester 7 report](https://github.com/cepdnaclk/e17-4yp-Music-Emotion-Recognition/blob/main/Lit_Review.pdf)
 - [Semester 7 slides](https://github.com/cepdnaclk/e17-4yp-Music-Emotion-Recognition/blob/main/Mid%20presentations/presentations/sem7_presentation.pdf)
-- [Semester 8 report]()
 - [Semester 8 slides](https://github.com/cepdnaclk/e17-4yp-Music-Emotion-Recognition/blob/main/Mid%20presentations/presentations/mid_evaluation.pptx)
 <!-- 1. [Semester 7 report](./) -->
 <!-- 2. [Semester 7 slides](./) -->
