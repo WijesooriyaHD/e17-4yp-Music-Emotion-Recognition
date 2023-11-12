@@ -95,12 +95,19 @@ We did parameter tuning to find the optimal learning rate and the epochs. The re
 
 
 ### Application of DNN
-We applied different layers of DNN with different number of units to test to improve the accuracy of the model.The results from the tests are as follows,
+We applied different Dense layers  with different number of units to test to improve the accuracy of the model.The results from the tests are as follows,
 
 ![Image 14](./images/DNNarosal.PNG)
 
 ![Image 15](./images/DNNvalaence.PNG)
 
+
+### Arousal Model Architecture
+
+![Image 15](./images/Arousal.png)
+
+### Valance Model Architecture
+![Image 16](./images/valance.png)
 
 ### Existing Models VS Best Model Developed
 
