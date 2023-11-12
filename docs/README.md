@@ -104,10 +104,10 @@ We applied different Dense layers  with different number of units to test to imp
 
 ### Arousal Model Architecture
 
-![Image 15](./images/Arousal.png)
+![Image 16](./images/Arousal.png)
 
 ### Valance Model Architecture
-![Image 16](./images/valance.png)
+![Image 17](./images/Valance.png)
 
 ### Existing Models VS Best Model Developed
 
